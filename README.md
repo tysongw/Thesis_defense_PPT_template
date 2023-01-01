@@ -1,4 +1,4 @@
-# Thesis-Proposal-and-Midterm-Report
+# PPT模板
 
 开题报告，中期报告以及最终答辩PPT模板  
 提供模板仅供参考  
